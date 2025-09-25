@@ -228,7 +228,3 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes and releases.
 
 Made with ❤️ for the Go community
 ```
-
-## License
-
-This library is part of the hexago project.
