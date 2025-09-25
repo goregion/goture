@@ -24,7 +24,7 @@ go get github.com/goregion/goture
 
 ## Requirements
 
-- Go 1.18+ (uses generics)
+- Go 1.23+ (uses generics)
 
 ## Quick Start
 
